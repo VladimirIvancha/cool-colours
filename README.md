@@ -19,7 +19,6 @@ ____
 1. https://fontawesome.com/v4/ - векторные иконки-шрифты с подгрузкой в css
 2. https://gka.github.io/chroma.js/ - библиотека для работы с цветами
 
-### Возможен запуск с рабочего сайта
 ### Ссылка на рабочий сайт:
 https://vladimirivancha.github.io/cool-colours/
 
